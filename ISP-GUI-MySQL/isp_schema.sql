@@ -1,0 +1,1 @@
+/* SQL schema placeholder; use script provided earlier */
