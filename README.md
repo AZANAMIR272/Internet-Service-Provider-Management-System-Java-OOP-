@@ -117,14 +117,7 @@ File → Project Structure → Artifacts → Add → JAR → With Dependencies �
 
 ---
 
-## 🖼️ Screenshots (Optional Section)
 
-You can add your GUI screenshots here:
-
-
-📌 Login Screen
-📌 Dashboard (Customers Tab)
-📌 Complaint Management View
 
 
 ---
